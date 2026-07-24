@@ -4,7 +4,7 @@ USER root
 
 # The purpose of this dockerfile is to deploy planning algorithms in the real Reachy 2 robot using the MoveIt 2 perception pipeline
 # The Docker image is built on pollenrobotics/reachy2_core:1.7.5.9_release
-
+# made for hardware
 
 # Update the expired ROS 2 repository key and install ROS 2 / MoveIt / Gazebo dependencies
 
